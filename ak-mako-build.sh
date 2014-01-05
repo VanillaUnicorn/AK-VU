@@ -10,7 +10,7 @@ clear
 
 # AK Kernel Version
 BASE_AK_VER="AK"
-VER=".240.KO.ILLUSION"
+VER=".EXP.250"
 AK_VER=$BASE_AK_VER$VER
 
 # AK Variables
